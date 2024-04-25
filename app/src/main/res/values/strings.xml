@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BurritoApp</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="build_your_burrito">Build Your Burrito</string>
+    <string name="select_your_veggies">Select Your Veggies</string>
+    <string name="corn_add_1_00">Corn add $1.00</string>
+    <string name="select_your_protein">Select Your Protein</string>
+    <string name="spinach_free">Spinach Free</string>
+    <string name="Pricing">$4.95</string>
+    <string name="lettuce_free">Lettuce Free</string>
+    <string name="select_your_rice_and_beans">Select Your Rice and Beans</string>
+    <string name="order_summary_button">Order Summary</string>
+    <string name="tomatoes_free">Tomatoes Free</string>
+    <string name="brown_rice_free">Brown Rice Free</string>
+    <string name="white_rice_free">White Rice Free</string>
+    <string name="black_beans_free">Black Beans Free</string>
+    <string name="red_beans_add_1_00">Red Beans add $1.00</string>
+    <string name="chicken_add_1_00">Chicken add $1.00</string>
+    <string name="pork_add_1_00">Pork add $1.00</string>
+    <string name="steak_add_2_00">Steak add $2.00</string>
+    <string name="burrito">Burrito</string>
+    <string name="order_summaryl_large">ORDER SUMMARY</string>
+    <string name="order_summary_large" />
+</resources>
